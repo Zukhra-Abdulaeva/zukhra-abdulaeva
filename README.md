@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I’m Zukhra Abdulaeva
 
-<!--
-**Zukhra-Abdulaeva/zukhra-abdulaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developerin | Quality & Project Engineering | Automotive E/E
 
-Here are some ideas to get you started:
+Ich kombiniere langjährige Erfahrung in Qualitäts- und Projektmanagement (Automotive E/E) mit modernen Full-Stack-Fähigkeiten (Python, Django, React).  
+Mein Fokus: robuste, testbare Softwarelösungen, die reale Engineering-Probleme lösen — von Log-Analyse bis zu Test-Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack (kurz)
+**Sprachen:** Python • JavaScript/TypeScript • SQL  
+**Backend:** Django, Django REST Framework, Node.js  
+**Frontend:** React, Redux  
+**Tools & DevOps:** Docker, GitHub Actions, PostgreSQL, CI/CD  
+**Automotive / E&E:** CAN, LIN, AUTOSAR, DOORS, HP ALM, Matlab/Simulink
+
+---
+
+## 🌟 Highlight-Projekte (Pinned Repos)
+- **Automotive Data Analyzer** — Log-Parsing & Visualisierung (Django + React)  
+- **Test Management App** — Mini-ALM für Testfälle & Testläufe (Full-Stack)  
+- **Quality Metrics Dashboard** — KPIs & Analysen (Python Data Project)
+
+*(Details und Live-Demos in den jeweiligen Repositories)*
+
+---
+
+## 🧭 Was mich besonders macht
+- Tiefe Domänen-Expertise in E/E-Systemfunktionen und Testmanagement  
+- Praxis in HW+SW-Integration, Release-Tests und ISO-9001 Audits  
+- Schnelle Auffassungsgabe für neue Technologien (aktuell: AI & Data Engineering)
+
+---
+
+## 🎯 Aktuelle Ziele
+- Ausbau meiner Fähigkeiten in AI & Signal-Analytics (Zeitreihen/Anomaliedetektion)  
+- Entwicklung eines Signature-Projects, das Automotive-Daten analysiert und visualisiert  
+- Wechsel in eine Software-Developer-Rolle mit Fokus auf Backend/Systems
+
+---
+
+## 📫 Kontakt
+📍 München, Germany  
+✉️ zukhra.abdulaeva@outlook.de  
+📞 +49 176 73223341
+
+---
+
+## 🔗 Schnellzugriff
+- LinkedIn — www.linkedin.com/in/z-abdulaeva-532470376
