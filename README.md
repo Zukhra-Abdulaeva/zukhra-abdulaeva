@@ -2,8 +2,8 @@
 
 ### 🚀 Full-Stack Developerin | Quality & Project Engineering | Automotive E/E
 
-Ich kombiniere langjährige Erfahrung in Qualitäts- und Projektmanagement (Automotive E/E) mit modernen Full-Stack-Fähigkeiten (Python, Django, React).  
-Mein Fokus: robuste, testbare Softwarelösungen, die reale Engineering-Probleme lösen — von Log-Analyse bis zu Test-Management.
+Ich kombiniere langjährige Erfahrung im Qualitäts- und Projektmanagement im Bereich Automotive E/E mit modernen Full-Stack-Fähigkeiten (Python, Django, React).  
+Mein Fokus liegt auf robusten, testbaren Softwarelösungen, die reale Engineering-Probleme lösen – von Log-Analyse bis Test-Management.
 
 ---
 
@@ -17,25 +17,21 @@ Mein Fokus: robuste, testbare Softwarelösungen, die reale Engineering-Probleme 
 ---
 
 ## 🌟 Highlight-Projekte (Pinned Repos)
-- **Automotive Data Analyzer** — Log-Parsing & Visualisierung (Django + React)  
-- **Test Management App** — ALM für Testfälle & Testläufe (Full-Stack)  
-- **Quality Metrics Dashboard** — KPIs & Analysen (Python Data Project)
-
-*(Details und Live-Demos in den jeweiligen Repositories)*
+... in Bearbeitung
 
 ---
 
 ## 🧭 Was mich besonders macht
-- Tiefe Domänen-Expertise in E/E-Systemfunktionen und Testmanagement  
+- Tiefe Expertise in E/E-Systemfunktionen und Testmanagement  
 - Praxis in HW+SW-Integration, Release-Tests und ISO-9001 Audits  
 - Schnelle Auffassungsgabe für neue Technologien (aktuell: AI & Data Engineering)
 
 ---
 
 ## 🎯 Aktuelle Ziele
-- Ausbau meiner Fähigkeiten in AI & Signal-Analytics (Zeitreihen/Anomaliedetektion)  
-- Entwicklung eines Signature-Projects, das Automotive-Daten analysiert und visualisiert  
-- Wechsel in eine Software-Developer-Rolle mit Fokus auf Backend/Systems
+- Ausbau meiner Fähigkeiten in den Bereichen KI, Signalanalyse und Software-Engineering
+- Entwicklung eines Projekts zur Analyse und Visualisierung von Automotive-Daten  
+- Wechsel in die Rolle des Software Developers
 
 ---
 
