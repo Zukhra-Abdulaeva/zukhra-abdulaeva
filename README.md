@@ -18,7 +18,7 @@ Mein Fokus: robuste, testbare Softwarelösungen, die reale Engineering-Probleme 
 
 ## 🌟 Highlight-Projekte (Pinned Repos)
 - **Automotive Data Analyzer** — Log-Parsing & Visualisierung (Django + React)  
-- **Test Management App** — Mini-ALM für Testfälle & Testläufe (Full-Stack)  
+- **Test Management App** — ALM für Testfälle & Testläufe (Full-Stack)  
 - **Quality Metrics Dashboard** — KPIs & Analysen (Python Data Project)
 
 *(Details und Live-Demos in den jeweiligen Repositories)*
