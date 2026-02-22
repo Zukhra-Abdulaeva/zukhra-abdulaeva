@@ -12,7 +12,7 @@ Mein Fokus liegt auf robusten, testbaren Softwarelösungen, die reale Engineerin
 **Backend:** Django, Django REST Framework, Node.js  
 **Frontend:** React, Redux  
 **Tools & DevOps:** Docker, GitHub Actions, PostgreSQL, CI/CD  
-**Automotive / E&E:** CAN, LIN, AUTOSAR, DOORS, HP ALM, Matlab/Simulink
+**Automotive / E&E:** CAN, LIN, FlexRay, Ethernet, AUTOSAR, DOORS, HP ALM, Matlab/Simulink
 
 ---
 
