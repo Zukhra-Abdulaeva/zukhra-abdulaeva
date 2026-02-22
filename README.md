@@ -17,9 +17,54 @@ Mein Fokus liegt auf robusten, testbaren Softwarelösungen, die reale Engineerin
 ---
 
 ## 🌟 Highlight-Projekte (Pinned Repos)
-... in Bearbeitung
 
----
+Motion — Social Media Frontend (React)
+Frontend-Implementierung einer Social Media Plattform auf Basis eines Figma Designs. Fokus auf komponentenbasierte Architektur, Routing, globales State Management und API-Kommunikation in einem teamorientierten Entwicklungsprozess.
+Was ich hier zeige
+•	Umsetzung eines Designs in eine skalierbare React-Struktur
+•	Saubere Komponentenarchitektur und moderne Frontend-Methoden
+•	Kollaboration, Kommunikation und Projektorganisation wie im realen Dev-Alltag
+•	Zuverlässige UI durch strukturierte Entwicklung
+Tech: React • Tailwind CSS • REST API • Component Architecture
+________________________________________
+
+Restaurant Review Platform — System Design & Data Modeling
+Konzeption einer Restaurant-Bewertungsplattform mit Benutzerverwaltung, Reviews, Kommentaren und Likes. Schwerpunkt auf ER-Datenmodell, Beziehungen, Backend-Logik und API-Struktur.
+Was ich hier zeige
+•	Strukturierung komplexer Anwendungssysteme
+•	Relationales Datenbankdesign und klare Entitätenbeziehungen
+•	Grundlage für skalierbare Backend-Architektur
+•	Systemdenken von Datenmodell bis Interaktion
+Konzepte: Relationales Datenmodell • Backend-Struktur • API-Design
+________________________________________
+
+System Integration & Quality Assurance
+Arbeit an HW/SW-Systemfunktionen in Prüfstandsfahrzeugen: Integration, Inbetriebnahme, Test- und Fehlermanagement sowie Auswertung von Buskommunikation.
+Praxis bei in-motion GmbH.
+Was ich hier einbringe
+•	Verständnis komplexer Systemlandschaften
+•	Strukturierte Qualitätssicherung und Release-Absicherung
+•	Verbindung von Technik, Prozessen und stabiler Umsetzung
+________________________________________
+
+Test Management & Process Optimization
+Einführung eines Testmanagementsystems, Erstellung von Testkonzepten, Planung von Testinfrastruktur sowie Optimierung von Kommunikations- und Prozessabläufen in IT/Electrics-Projekten.
+Praxis bei Bertrandt Ingenieurbüro Gaimersheim GmbH.
+Was ich hier einbringe
+•	End-to-End Teststrategie und Qualitätsmetriken
+•	Prozessstrukturierung und messbare Verbesserungen
+•	Schnittstelle zwischen Entwicklung, Qualität und Projektsteuerung
+________________________________________
+
+Vehicle Bus Communication Database Tool — Development & Integration
+Mitwirkung an der Weiterentwicklung eines zentralen Datenbanktools zur Verwaltung signalgestützter Fahrzeugkommunikation. Fokus auf Strukturierung komplexer Kommunikationsdaten, Testintegration und zuverlässige Systemnutzung im Projektkontext.
+Praxis bei Bertrandt Ingenieurbüro Gaimersheim GmbH.
+Was ich hier einbringe
+•	Strukturierung komplexer technischer Datenmodelle
+•	Verbindung von Softwaretool, Testmanagement und Engineering-Prozess
+•	Unterstützung von Systemintegration und Validierung
+•	Verständnis für E/E-Systeme und Buskommunikation im Gesamtsystem
+
 
 ## 🧭 Was mich besonders macht
 - Tiefe Expertise in E/E-Systemfunktionen und Testmanagement  
