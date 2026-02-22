@@ -79,10 +79,13 @@ Was ich hier einbringe:
 ---
 
 ## 🎯 Aktuelle Ziele
-- Ausbau meiner Fähigkeiten in den Bereichen KI, Signalanalyse und Software-Engineering
-- Entwicklung eines Projekts zur Analyse und Visualisierung von Automotive-Daten  
-- Wechsel in die Rolle des Software Developers
+Ich entwickle mein Profil gezielt an der Schnittstelle von Softwareentwicklung, Systemintegration und strukturiertem Qualitätsmanagement weiter.
 
+- Aufbau skalierbarer Webanwendungen mit klarem Architektur- und Qualitätsfokus
+- Vertiefung von Backend-Entwicklung, Datenmodellierung und API-Design  
+- Anwendung strukturierter Teststrategien zur Sicherstellung zuverlässiger Software
+- Weiterentwicklung von Lösungen zur Prozessautomatisierung und Datenanalyse
+- Ausbau meiner Rolle in technischen Projekten von der Umsetzung bis zur Integration in reale Arbeitsumgebungen
 ---
 
 ## 📫 Kontakt
