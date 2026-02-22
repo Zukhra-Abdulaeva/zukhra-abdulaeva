@@ -26,6 +26,7 @@ Was ich hier zeige:
 •	Saubere Komponentenarchitektur und moderne Frontend-Methoden
 •	Kollaboration, Kommunikation und Projektorganisation wie im realen Dev-Alltag
 •	Zuverlässige UI durch strukturierte Entwicklung
+
 Tech: React • Tailwind CSS • REST API • Component Architecture
 ________________________________________
 
@@ -37,6 +38,7 @@ Was ich hier zeige:
 •	Relationales Datenbankdesign und klare Entitätenbeziehungen
 •	Grundlage für skalierbare Backend-Architektur
 •	Systemdenken von Datenmodell bis Interaktion
+
 Konzepte: Relationales Datenmodell • Backend-Struktur • API-Design
 ________________________________________
 
