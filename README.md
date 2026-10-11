@@ -8,6 +8,7 @@ Mein Schwerpunkt liegt auf der Verbindung von technischem Systemverständnis, st
 ---
 
 ## 🔧 Tech Stack (kurz)
+
 **Sprachen:** Python • JavaScript/TypeScript • SQL  
 **Backend:** Django, Django REST Framework, Node.js  
 **Frontend:** React, Redux  
